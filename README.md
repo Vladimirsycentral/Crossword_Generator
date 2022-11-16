@@ -1,3 +1,3 @@
 # CrosswordProject
 University Crossword Project
-#описать проект
+A php program that creates a crossword from the given dictionary
